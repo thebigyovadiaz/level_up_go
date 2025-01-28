@@ -1,4 +1,4 @@
-// Challenge: Giggest Market
+// Challenge: Biggest Market
 // Task: given a list, users.json and their details implement a function
 //		that outputs the country with the most users.json.
 
